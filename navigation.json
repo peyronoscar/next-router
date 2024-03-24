@@ -1,0 +1,12 @@
+{
+  "topNavigation": {
+    "home": {
+      "link": "/",
+      "label": "components.topNavigation.links.home"
+    },
+    "about": {
+      "link": "/about",
+      "label": "components.topNavigation.links.about"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "components": {
+    "topNavigation": {
+      "links": {
+        "home": "Home",
+        "about": "About"
+      }
+    },
+    "common": {
+      "languageDropdown": {
+        "label": "Language"
+      }
+    }
+  }
+}

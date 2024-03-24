@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "title": "Hej världen!"
+  },
+  "components": {
+    "topNavigation": {
+      "links": {
+        "home": "Hem",
+        "about": "Om oss"
+      }
+    },
+    "common": {
+      "languageDropdown": {
+        "label": "Språk"
+      }
+    }
+  }
+}
